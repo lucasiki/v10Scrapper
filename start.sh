@@ -1,0 +1,1 @@
+docker run -it -p 4000:4000 -v "C:/Users/lucas/Desktop/lab/v10Selenium/program":/usr/src/app v1:latest bash

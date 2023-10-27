@@ -1,0 +1,1 @@
+ docker logs -f -n 100 $(docker ps | grep "v1:latest" | awk '{print $1}')

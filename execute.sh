@@ -1,0 +1,1 @@
+docker run -v "C:/Users/lucas/Desktop/lab/v10Selenium/program":/usr/src/app -p 4000:4000 -d v1:latest
